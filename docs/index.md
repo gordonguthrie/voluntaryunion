@@ -14,7 +14,7 @@
 * [Part IV - Excepted Matters](./draft_bill/Part_IV_Excepted_Matters.html)
 * [Part V - The Commonwealth,  Crown Colonies, Dependent Territories, etc](./draft_bill/Part_V_The_Commonwealth_Crown_Colonies_Dependent_Territories_etc.html)
 * [Part VI - Ratification](./draft_bill/Part_VI_Ratification.html)
-* [Part VII - Miscellaneous](./draft_bill/Part_VII_Miscellaneous)
+* [Part VII - Miscellaneous](./draft_bill/Part_VII_Miscellaneous.html)
 
 ### Schedules Of The Bill
 
@@ -35,7 +35,7 @@
 * [Explanatory notes to Part IV - Excepted Matters](./explanatory_notes/Explanatory_Notes_To_Part_IV_Excepted_Matters.html)
 * [Explanatory notes to Part V - The Commonwealth,  Crown Colonies, Dependent Territories, etc](./explanatory_notes/Explanatory_Notes_To_Part_V_The_Commonwealth_Crown_Colonies_Dependent_Territories_etc.html)
 * [Explanatory notes to Part VI - Ratification](./explanatory_notes/Explanatory_Notes_To_Part_VI_Ratification.html)
-* [Explanatory notes to Part VII - Miscellaneous](./explanatory_notes/Explanatory_Notes_To_Part_VII_Miscellaneous)
+* [Explanatory notes to Part VII - Miscellaneous](./explanatory_notes/Explanatory_Notes_To_Part_VII_Miscellaneous.html)
 
 ### Explanatory Notes To The Schedules Of The Bill
 

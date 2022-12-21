@@ -66,7 +66,7 @@
 
 26 Question
 
-## [Part VII - Miscellaneous](./Explanatory_Notes_To_Part_VII_Miscellaneous)
+## [Part VII - Miscellaneous](./Explanatory_Notes_To_Part_VII_Miscellaneous.html)
 
 27 Role of Electoral Commission
 
