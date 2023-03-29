@@ -1,5 +1,4 @@
-# A Constitution Act
-
+# The Act Of Voluntary Union
 ## Purpose
 
 ## Contents
