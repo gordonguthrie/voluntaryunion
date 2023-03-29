@@ -4,7 +4,7 @@
 
 The output of the Constitutional Convention needs to be defined. The Constitution must conform to the rule of law. The principle that as a general rule nothing is ruled out of the Constitution is established.
 
-### 20 The voluntary Union of sovereign peoples
+### 20 The Voluntary Union of sovereign peoples
 
 The first of the four exceptions to the principle that nothing is ruled out - the Union is a voluntary union of sovereign peoples.
 

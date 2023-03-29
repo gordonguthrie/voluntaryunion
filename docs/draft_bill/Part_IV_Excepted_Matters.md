@@ -14,7 +14,7 @@
 
 19 (4) nothing shall be precluded from the Constitution except as provided by the Sections 20, 21, 22 and 23.
 
-### 20 The voluntary Union of sovereign peoples
+### 20 The Voluntary Union of sovereign peoples
 
 20 (1) The constitution must declare the Union a voluntary union of the sovereign people of Northern Ireland, Wales, England and Scotland as defined in Sections 1 and 2.
 

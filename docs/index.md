@@ -28,7 +28,7 @@
 ### Explanatory Notes To The Bill
 
 * [Explanatory notes to the Preface](./explanatory_notes/Explanatory_Notes_Preface.html)
-* [Explanatory notes contents](./explanatory_notes/Explanatory_Notes_Contents.html)
+* [Explanatory notes Contents](./explanatory_notes/Explanatory_Notes_Contents.html)
 * [Explanatory notes to Part I - Preliminary](./explanatory_notes/Explanatory_Notes_To_Part_I_Preliminary.html)
 * [Explanatory notes to Part II - The Constitutional Convention](./explanatory_notes/Explanatory_Notes_To_Part_II_The_Constitutional_Convention.html)
 * [Explanatory notes to Part III - Procedures of the Constitutional Convention](./explanatory_notes/Explanatory_Notes_To_Part_III_Procedures_Of_The_Constitutional_Convention.html)
